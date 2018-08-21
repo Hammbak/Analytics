@@ -19,5 +19,25 @@ namespace Analytics.Models
                 c++;
             }
         }
+
+        public void badFun()
+        {
+            int q = 0;
+            int w = 0;
+
+            for (int i = 0; i < 4; i++)
+            {
+                for (int k = 0; k < 4; k++)
+                {
+                    for (int j = 0; j < 8; j++)
+                    {
+                        for (int l = 0; l < 20; l++)
+                        {
+                            w++;
+                        }
+                    }
+                }
+            }
+        }
     }
 }

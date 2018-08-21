@@ -1,0 +1,10 @@
+exclude:
+- /Analytics/App_Data/*
+- /Analytics/bin/*
+- /Analytics/fonts/*
+- /Analytics/obj/*
+- /Analytics/Properties/*
+- /Analytics/Scripts/*
+- /packages/*
+- /.vs/*
+- /.git/*
